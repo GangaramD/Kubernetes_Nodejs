@@ -105,5 +105,5 @@ This will prevent your local modules and debug logs from being copied onto your 
       
 The Application is running at the port 49160, Open the URL in any of your local browser and then,
 
-                http:localhost:49160
+                http://localhost:49160
     
