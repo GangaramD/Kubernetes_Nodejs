@@ -13,3 +13,6 @@ Use cmd to call ansible script,
 Creating a docker image of Node JS application and deployment using and managing using  Kubernetes cluster.
 
 Use the Docker_Nodesjs.MD file for Detailed steps
+#Best guide fir k8s
+
+https://medium.com/@jandavid.staerk/why-kubernetes-is-awesome-9f7ff0186996
